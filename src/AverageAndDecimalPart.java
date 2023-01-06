@@ -1,4 +1,4 @@
-public class AvaragAndDecimalPart {
+public class AverageAndDecimalPart {
     public static void main(String[] args) {
         //-----------------------------------------------------
 
